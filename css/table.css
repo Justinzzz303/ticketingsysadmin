@@ -1,0 +1,41 @@
+body{
+    color: white;
+    background-color: black;
+}
+table {
+    color: white;
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+.th, td {
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    text-align: center;
+    justify-content: center;
+    border-bottom: 1px solid #ddd;
+}
+.th {
+border: 1px solid white;
+    background-color: #f2f2f2;
+}
+thead,th{
+    border: 1px solid white;
+}
+.btn{
+    text-decoration: none;
+ float: right;
+ background-color: white;
+ color: black;
+}
+.btn1{
+    text-decoration: none;
+    margin: 5px;
+    justify-content:space-between;
+}
+.button-container{
+   display: flex;
+  
+}
+
